@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiniChallenge2</string>
+    <string name="skip"><u>Skip</u></string>
+    <string name="text1">Trattoria come to help you hunger problem with easy find any restaurant</string>
+    <string name="text2"><b>No Worry,</b> Handle Your Hunger <b>with Trattoria!</b></string>
+    <string name="construction"><b>Sorry,</b> We are under construction.</string>
+</resources>
